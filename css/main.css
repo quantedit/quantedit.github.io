@@ -11,6 +11,11 @@ h3 {
   border-bottom: 1px solid #eee;
 }
 
+code {
+  color: #000;
+  background-color: #eee;
+}
+
 .container{
     max-width: 752px;
 }
