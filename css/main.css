@@ -2,8 +2,21 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+h1 {
+  2em;
+}
+
+h2, h3 {
+  font-weight: bold;
+}
+
+h3 {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #eee;
+}
+
 .container{
-    max-width: 840px;
+    max-width: 752px;
 }
 
 #home {
@@ -22,14 +35,14 @@ body {
 
 .posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
   font-size: 80%;
 }
 
 .post pre {
   border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
+  background-color: #f8f8f8;
+  padding: .6em .4em;
 }
 
 .post ul, .post ol {
@@ -38,7 +51,7 @@ body {
 
 .post code {
   border: 1px solid #ddd;
-  background-color: #eef;
+  background-color: #f8f8f8;
   padding: 0 .2em;
 }
 
