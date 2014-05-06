@@ -40,7 +40,7 @@ These instructions assume an Apple latop running OS X.
 
 ### Turtles all the way
 
-Idle comes bundled with the `turtle` package, a library for visualising the
+Python comes bundled with the `turtle` package, a library for visualising the
 results of your code as drawings on screen.
 
 Before using any library it has to be imported. You can do this by
