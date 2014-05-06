@@ -6,8 +6,9 @@ h2, h3 {
   font-weight: bold;
 }
 
-h3 {
+.post h3 {
   padding-bottom: 0.3em;
+  margin-bottom: 0.5em;
   border-bottom: 1px solid #eee;
 }
 
@@ -16,12 +17,22 @@ code {
   background-color: #eee;
 }
 
+img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
 .container{
     max-width: 752px;
 }
 
 #home {
     margin-top: 6em;
+}
+
+.post {
+    line-height: 1.5em;
 }
 
 .posts {
