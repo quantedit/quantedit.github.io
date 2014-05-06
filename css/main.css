@@ -12,6 +12,13 @@ h2, h3 {
   border-bottom: 1px solid #eee;
 }
 
+.footer {
+  padding-top: 0.6em;
+  margin: 1em 0;
+  border-top: 1px solid #eee;
+  text-align: center;
+}
+
 p.meta a {
   padding-left: 0.5em;
 }
