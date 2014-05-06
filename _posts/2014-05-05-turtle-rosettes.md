@@ -20,7 +20,7 @@ and allow me to build on simple concepts and combine them into something impress
 
 I opted for [Python 2.7](https://docs.python.org/2/) and
 [IDLE](https://docs.python.org/2/library/idle.html). Not only was this
-a non-intimidating
+a less intimidating
 environment for a new programmer, it also came pre-installed on
 the OS X laptop we were using for the day.
 
@@ -31,7 +31,7 @@ These instructions assume an Apple latop running OS X.
 1. In Finder, go to the Utilites folder
 2. Open Terminal
 3. Type `idle` at the terminal window
-4. Hit return to start idle
+4. Hit return to start IDLE
 
 ![Go to the Utilities folder](https://s3-eu-west-1.amazonaws.com/henrygarner.com/assets/images/go-utilities.png)
 ![Open Terminal](https://s3-eu-west-1.amazonaws.com/henrygarner.com/assets/images/utilities-terminal.png)
