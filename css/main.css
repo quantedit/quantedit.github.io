@@ -8,8 +8,13 @@ h2, h3 {
 
 .post h3 {
   padding-bottom: 0.3em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.7em;
   border-bottom: 1px solid #eee;
+}
+
+.post p {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
 }
 
 .footer {
