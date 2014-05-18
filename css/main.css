@@ -96,3 +96,14 @@ img {
 .post pre.terminal code {
   background-color: #333;
 }
+
+blockquote {
+  font-family: Vollkorn, serif;
+  border: 0;
+}
+blockquote:before {
+
+}
+blockquote p {
+  display: inline;
+}
